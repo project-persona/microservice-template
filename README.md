@@ -4,6 +4,9 @@ a template repository which other microservices *SHOULD* fork from
 
 "SHOULD" means you don't have to use this, as long as your microservice implementation is compliant with all others.
 
+## Requirements:
+- `cmake`
+
 ## Usage
 
 ### Fork this repository
